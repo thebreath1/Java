@@ -1,0 +1,12 @@
+"Proses membuat code Java menginputkan total barang."
+
+1.Memasukkan nama user
+    input: Masukkan username
+    output:"Nama user"
+2.Memasukkan nama barang
+    input: Masukkan barang
+    output:"Nama barang"
+3.Memasukkan total barang yang dimiliki
+    input: total barang yang dimiliki
+    output: "Nama user",total "Nama barang" yang kamu miliki ada + "Total";
+4.Selesai.
